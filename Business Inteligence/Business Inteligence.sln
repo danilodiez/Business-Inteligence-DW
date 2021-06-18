@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Business Inteligence", "Business Inteligence\Business Inteligence.dtproj", "{22C1C1DD-83CF-46A9-8F5B-581E2FC41AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C1C1DD-83CF-46A9-8F5B-581E2FC41AED}.Development|Default.ActiveCfg = Development
+		{22C1C1DD-83CF-46A9-8F5B-581E2FC41AED}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EF5CE9-85A8-4407-B5BB-3BE144620614}
+	EndGlobalSection
+EndGlobal
